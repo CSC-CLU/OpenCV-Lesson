@@ -1,7 +1,7 @@
 import cv2
 
 # 1. Load an image from disk
-image = cv2.imread('sample.jpg')
+image = cv2.imread('OpenCV-Lesson\sample.jpg')
 
 # 2. Check the underlying matrix structure
 # Returns tuple: (Height, Width, Channels)
